@@ -46,6 +46,7 @@ function Navbar() {
                 <li class="nav-item" className="pe-2">
                   <Link class="nav-link" to="/support">Support</Link>
                 </li>
+                <li style={{paddingTop:"8px", paddingLeft:"7px"}}><i class="fa fa-bars" aria-hidden="true"></i></li>
               </ul>
             </div>
           </div>
